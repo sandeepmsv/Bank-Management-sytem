@@ -18,7 +18,7 @@ Following are the steps if you want to run this banksystem on your pc.
 ## Clone repository
 Clone this repository by following command
 ```cmd
-git clone https://github.com/EitoZX/Bank-Management-System.git
+https://github.com/sandeepmsv/Bank-Management-sytem.git
 ```
 
 ## Fill `.env` file with correct credentials
